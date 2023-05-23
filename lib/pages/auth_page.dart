@@ -3,7 +3,6 @@ import 'package:chat/core/models/auth_form_data.dart';
 import 'package:chat/core/services/auth/auth_mock_service.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
 
 class AuthPage extends StatefulWidget {
   const AuthPage({super.key});
