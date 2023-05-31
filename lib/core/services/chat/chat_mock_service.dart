@@ -13,6 +13,7 @@ class ChatMockService implements ChatService {
     _controller = controller;
     controller.add(_msgs);
   });
+
   @override
   Stream<List<ChatMessage>> messagesStream() {
     return _msgsStream;
