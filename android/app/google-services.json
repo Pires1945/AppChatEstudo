@@ -1,26 +1,36 @@
 {
   "project_info": {
-    "project_number": "64119766312",
-    "project_id": "chat-65467",
-    "storage_bucket": "chat-65467.appspot.com"
+    "project_number": "778859515122",
+    "project_id": "chat-777a3",
+    "storage_bucket": "chat-777a3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:64119766312:android:381b93d2934df7c03a241d",
+        "mobilesdk_app_id": "1:778859515122:android:c273dcbf39447cc5f5946b",
         "android_client_info": {
-          "package_name": "br.com.felipe.chat"
+          "package_name": "com.felipe.chat"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "778859515122-3g26pjk5g2pdh2st31pkjbj52e6kc3ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyCic_fE2OTdRsw7fsYqAF69_sM-Sg0j3bI"
+          "current_key": "AIzaSyDBKWteLAJPlwKtlD0y7tbApLyyjLmydTc"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778859515122-3g26pjk5g2pdh2st31pkjbj52e6kc3ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
