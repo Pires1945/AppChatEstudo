@@ -31,7 +31,11 @@ class AuthFirebaseService implements AuthService {
 
   @override
   Future<void> signUp(
-      String name, String email, String password, File? image) async {
+    String name,
+    String email,
+    String password,
+    File? image,
+  ) async {
     final auth = FirebaseAuth.instance;
 
     UserCredential credential = await auth.createUserWithEmailAndPassword(
